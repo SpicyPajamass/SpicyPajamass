@@ -4,6 +4,8 @@ I am a Software Engineering student at Oakland Community College. I am learning 
 
 I just recently started learning Linux and Homelab. I started with Mint Ubuntu then quickly escalated to Arch and ultimately settling on Omarchy Linux. I set up a CasaOS server on a old laptop running JellyFin and Immich with automatic backups on all my photos. I also recently got a 3D printer that hasn't had a break since I got it XD.
 
+I mostly know just Python for now, but have been dabbling in other languages as well. I am still in my first year of school, but have been learning through The Odin Project on the side.
+
 I love to learn and be creative and am currently looking for internships related to technology. This Github is a work in progress, so it isn't as polished as I'd like.
 
 You can reach me at haddadmichael835@gmail.com
